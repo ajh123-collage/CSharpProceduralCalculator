@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProceduralProject1", "ProceduralProject1\ProceduralProject1.csproj", "{CEBC0571-1561-47AD-8221-7DA577D3BD70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEBC0571-1561-47AD-8221-7DA577D3BD70}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{CEBC0571-1561-47AD-8221-7DA577D3BD70}.Debug|anycpu.Build.0 = Debug|anycpu
+		{CEBC0571-1561-47AD-8221-7DA577D3BD70}.Release|anycpu.ActiveCfg = Release|anycpu
+		{CEBC0571-1561-47AD-8221-7DA577D3BD70}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

@@ -72,6 +72,15 @@ namespace ProceduralProject1
             //Area is the area of a circle with radius 'r'
             //You will need to ask for two inputs this time
             //Display the answer to two DP
+
+            Console.WriteLine("What is the radius? ");
+            double r = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("What is the height? ");
+            double h = Convert.ToDouble(Console.ReadLine());
+            double area = Math.PI * Math.Pow(r, 2); //PI * r to the power of two (r squared)
+
+            double v = area * h;
+            Console.WriteLine("The volume is " + Math.Round(v, 2));
         }
     }
 }
